@@ -1,5 +1,6 @@
 __pycache__
 output
+*.exe
 *.lnk
-Icon.png
-Icon.xcf
+*.png
+*.xcf
