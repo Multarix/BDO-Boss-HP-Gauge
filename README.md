@@ -10,6 +10,8 @@ The opacity can be changed by right clicking on it<br>
 <br>
 Middle mouse can be used to move the GUI
 
+[Download here](https://github.com/Multarix/BDO-Boss-HP-Gauge/releases/latest)
+
 <hr>
 
 ## For those concerned about using this
